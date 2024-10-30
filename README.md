@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @vladcatinas
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning automatics and applied informatics
-- 💞️ I’m looking to collaborate
+- 👀 I’m a software engineer
 - 📫 How to reach me vladccatinas@gmail.com
 
 <!---
